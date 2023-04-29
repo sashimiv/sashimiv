@@ -5,8 +5,6 @@
 - Email: <a href="mailto:sashimiv@gmail.com">sashimiv@gmail.com</a> <img src="https://media.discordapp.net/attachments/939337526345338911/944756248027480074/Gmail.png?width=461&height=461" height="16px">
 <div>
 </div>
-### моя активность на github
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sashimiv&theme=github)
 
 <div>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sashimiv&count_private=true&show_icons=true&theme=github_dark&locale=ru"/>
