@@ -1,6 +1,7 @@
 
 
 ### связаться со мной
+- VK : <a href="https://vk.com/sashimivl">vk.com/sashimivl</a>
 - Telegram: <a href="https://t.me/sashimivl">t.me/sashimivl</a>
 - Email: <a href="mailto:sashimiv@gmail.com">sashimiv@gmail.com</a> <img src="https://media.discordapp.net/attachments/939337526345338911/944756248027480074/Gmail.png?width=461&height=461" height="16px">
 <div>
