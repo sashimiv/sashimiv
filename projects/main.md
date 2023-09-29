@@ -1,0 +1,31 @@
+## Все мои проекты/принял участие:
+- Lumpcord v0.1.4 (2019-2020)
+- SANproject2 (2021-2022)
+   - FlameOut (2020-present)
+       - FlameOut Testing (2021-present)
+       - FlameOut music 24/7 (2021)
+[SANproject3](https://t.me/sanprjct3) (2022-present)
+- FlameOut (2021-present)
+- [genpass](https://github.com/Nubovik01/genpass) v5 (2022-present)
+- sanpasgen v3 (2022-present)
+- [saykonf](https://github.com/sashimiv/saykonf) v3.0.2 (2022-present)
+- vsopenTG v0.6.1 (2022-present)
+- JesMeta v8.5.3 (2022-present)
+- YouDonates v0.4.5 (2023)
+- VsopenAPI v5.8.3 (2022-present)
+- VsopenRSS v2.4.5 (2023-present)
+- [japy](https://github.com/sashimiv/japy) (2023)
+- BoostSoft (2023-present)
+- YooMoneyChecks v1.0
+- QIWIChecks v1.0
+- SberPay v0.6
+- sankeys v2.5 (2023)
+- SanKeys v2 (2023-present)
+- [RSA shield](https://github.com/sashimiv/AES-Shield) (2023-present)
+- [Libregen](https://github.com/sashimiv/libregen) (2022-present)
+- wirecrypter (2023-present)
+- [yagoohoweb](https://github.com/sashimiv/yagoohoweb) (2023-present)
+- [zbi4iz](https://t.me/zbi4iz) (2023-н.в)
+- itschool2023-projects (2023-н.в.)
+- rschsAPI (2023-н.в.)
+- AvtobusSHBK
