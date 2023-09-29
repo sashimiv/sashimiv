@@ -1,0 +1,13 @@
+- Если Вы хотите меня поддержать:
+- ` https://yoomoney.ru/fundraise/d1tenANOB5U.230928 `
+- Номер кошелька ЮMoney 💸: ` 4100 1181 9296 5052 `
+- С другого банка на ЮMoney 💸: ` 2204 1202 0086 8343 `
+- Tinkoff 💸: ` https://www.tinkoff.ru/cf/9U6afrGLDwC `
+- OZON банк: ` 2204 2401 2963 6264 `
+- СберБанк 💸:  ` 2202 2062 8604 2002 ` 
+- TON 💸: ` EQBJ03Rs3c00_tv-Yg0X5lcYK6ElVWEhZJSW6kXT11qP_gQV `
+- TRON: ` TUqyCaYVeXo8bD19XHrFjMPYZV5w7TQ5QM `
+- USDT (TRC20) 💸: ` TUqyCaYVeXo8bD19XHrFjMPYZV5w7TQ5QM `
+- CryptoBot: ` https://t.me/CryptoBot?start=IVnn5m3mGhAC `
+- Система Быстрых Платежей (РФ): ` Временно недоступно. `
+- У всех карт, присутствующие в тексте, ПС "Мир"
