@@ -1,8 +1,6 @@
 ## Привет, я Вова <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 Программист, создатель всякого, 15 лет
 ## Мои навыки
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  В данный момент нахожусь на курсах по изучению
-
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)  Использую для создания графических интерфейсов
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  Использую для написания кода
