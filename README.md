@@ -18,12 +18,5 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) Использую для визуализации работы
 
-## Мои проекты
-
-Saykonf - создан, для генерации пароля, был переписан более 10 раз, в текущей версии (18.02.24) доступно сохранение пароля, сервиса и логина в sqlite3 таблицу, это мой третий проект с использованием sqlite3, используется ООП, основной язык: python.
-
-## О мне
-в текущий момент я совершенствуюсь, не более, заканчиваю 9 класс, в свободное время обычно играю в игры или же думаю над проектами.
-
 ## Контакты
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) https://t.me/sashimiv
